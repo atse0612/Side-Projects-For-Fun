@@ -1,3 +1,3 @@
 # Side-Projects-For-Fun
 
-Various R Projects from different kinds of datasets.
+Various R and Python Projects from different kinds of datasets.
