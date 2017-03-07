@@ -1,4 +1,5 @@
 # Side-Projects-For-Fun
 
-Various R and Python Projects from different kinds of datasets from different sources. 
-It will consist of multiple packages from R and Python at this time. There will be more in the future.
+In this repository, you will find various types of topics ranging from sports to environmental and legal issues. The purpose is to draw conclusions or analyses in order to utilize better decision-making or analyses based on facts pulled from the datasets.  
+
+The datasets are going to be varied from different websites that is given. 
