@@ -6,7 +6,7 @@ The datasets are going to be varied from different websites that is given.
 
 It will consist of different programming languages.
 
-This repository consists of data that analyzes on the following:
+This repository consists of data that analyzes the following:
 
 Affordable Care Act 
   
