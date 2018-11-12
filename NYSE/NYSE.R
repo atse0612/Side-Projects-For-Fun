@@ -37,7 +37,7 @@ head(ohlc)
 
 ## Picking RL
 
-RL <- subset(nyse,symbol=="RL") #extracting only Apple
+RL <- subset(nyse,symbol=="RL") #extracting only Ralph Lauren
 
 RL[1:3,]
 close <- RL$close #creating vector called close
