@@ -53,7 +53,7 @@ head(ohlc)
 ## Picking FB
 
 
-FB <- subset(nyse,symbol=="FB") #extracting only Ralph Lauren
+FB <- subset(nyse,symbol=="FB") #extracting only Facebook
 
 FB[1:3,]
 close <- FB$close #creating vector called close
