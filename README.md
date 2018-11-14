@@ -28,12 +28,7 @@ Global Land Temperatures in Oakland and San Francisco
  Using R to predict the differences with the temperatures around these two cities in comparision to the given data back in the early
  history. The analyses involved with converting the latitude and longitude, graphing the average monthly temperature on a celsius
  perspective, uncertainty between today and 100 years ago, and creating a random forest model for both cities.
-  
-UCI Machine Learning Repositories
- 
- Performed basic analyses on both the Iris and Glass datasets that are given from the webiste in order to make better predictions on 
- flower length and classifying the material of glass.
-  
+
 NFL Draft
  
  Utilized R to predict the performance of draft picks over the last 30 years in order to see which rounds and picks that has performed
